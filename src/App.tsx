@@ -77,7 +77,7 @@ function App() {
     message += "✈️ Livraison disponible partout dans le monde\n";
     message += "📦 Votre commande sera traitée dès réception du paiement";
 
-    const whatsappNumber = "22898347005";
+    const whatsappNumber = "22879689386";
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
 
     window.open(whatsappUrl, '_blank');
