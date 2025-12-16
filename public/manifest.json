@@ -1,0 +1,16 @@
+{
+  "name": "Lidaf Store",
+  "short_name": "Lidaf",
+  "description": "Boutique en ligne de maillots de football",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
