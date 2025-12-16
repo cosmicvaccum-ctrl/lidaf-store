@@ -6,7 +6,7 @@ export const products: Product[] = [
     name: 'Maillot Real Madrid Domicile 2024',
     category: 'maillot',
     price: 45000,
-    image: 'https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     team: 'Real Madrid',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
@@ -15,7 +15,7 @@ export const products: Product[] = [
     name: 'Maillot Barcelona Domicile 2024',
     category: 'maillot',
     price: 45000,
-    image: 'https://images.pexels.com/photos/3657154/pexels-photo-3657154.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     team: 'Barcelona',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
@@ -24,7 +24,7 @@ export const products: Product[] = [
     name: 'Maillot PSG Domicile 2024',
     category: 'maillot',
     price: 42000,
-    image: 'https://images.pexels.com/photos/1374925/pexels-photo-1374925.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     team: 'PSG',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
@@ -33,7 +33,7 @@ export const products: Product[] = [
     name: 'Maillot Manchester United Domicile 2024',
     category: 'maillot',
     price: 44000,
-    image: 'https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     team: 'Manchester United',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
@@ -42,7 +42,7 @@ export const products: Product[] = [
     name: 'Maillot Liverpool Domicile 2024',
     category: 'maillot',
     price: 43000,
-    image: 'https://images.pexels.com/photos/1661950/pexels-photo-1661950.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     team: 'Liverpool',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
@@ -51,7 +51,7 @@ export const products: Product[] = [
     name: 'Maillot Bayern Munich Domicile 2024',
     category: 'maillot',
     price: 43000,
-    image: 'https://images.pexels.com/photos/1327405/pexels-photo-1327405.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     team: 'Bayern Munich',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
@@ -60,7 +60,7 @@ export const products: Product[] = [
     name: 'Short d\'entraînement Nike Pro',
     category: 'short',
     price: 15000,
-    image: 'https://images.pexels.com/photos/1556710/pexels-photo-1556710.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
   {
@@ -68,7 +68,7 @@ export const products: Product[] = [
     name: 'Short Adidas Training',
     category: 'short',
     price: 14000,
-    image: 'https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
   {
@@ -76,7 +76,7 @@ export const products: Product[] = [
     name: 'T-Shirt Football Style Classic',
     category: 'tshirt',
     price: 12000,
-    image: 'https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
   {
@@ -84,7 +84,7 @@ export const products: Product[] = [
     name: 'T-Shirt Sport Performance',
     category: 'tshirt',
     price: 13000,
-    image: 'https://images.pexels.com/photos/1778412/pexels-photo-1778412.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
   {
@@ -92,7 +92,7 @@ export const products: Product[] = [
     name: 'Maillot Juventus Domicile 2024',
     category: 'maillot',
     price: 44000,
-    image: 'https://images.pexels.com/photos/2834917/pexels-photo-2834917.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     team: 'Juventus',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   },
@@ -101,7 +101,7 @@ export const products: Product[] = [
     name: 'Maillot AC Milan Domicile 2024',
     category: 'maillot',
     price: 42000,
-    image: 'https://images.pexels.com/photos/3755913/pexels-photo-3755913.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://fra.cloud.appwrite.io/v1/storage/buckets/69416aad0004b2a0bfd1/files/69416aed002efbea8353/view?project=69416a84002dcab80c22',
     team: 'AC Milan',
     sizes: ['S', 'M', 'L', 'XL', 'XXL']
   }
